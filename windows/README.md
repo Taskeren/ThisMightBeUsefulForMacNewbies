@@ -21,3 +21,7 @@ Remove-Item Alias:Curl
 ```powershell
 choco install curl -y
 ```
+
+### Java 多版本管理
+
+你可以复制一份 `java.exe` 改成你想要的名字，例如 `java17.exe`。当使用 Java17 时就可以使用类似下面的指令：`java17 -jar the_program.jar`。
