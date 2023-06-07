@@ -13,6 +13,7 @@
 ## 配置环境
 
 - [为 Git 配置 GnuPG 签名（⭐️）](https://gist.github.com/phortuin/cf24b1cca3258720c71ad42977e1ba57)：配置不明白，给兄弟恶心坏了。
+- [安装及使用代理（⭐️）](/proxy.md)
 
 ## 控制台
 
